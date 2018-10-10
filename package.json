@@ -1,0 +1,18 @@
+{
+  "name": "redux-react-practice",
+  "version": "1.0.0",
+  "description": "Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm i redux --save-dev"
+  },
+  "author": "Edward",
+  "license": "ISC",
+  "devDependencies": {
+    "redux": "^4.0.0"
+  }
+}
